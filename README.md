@@ -5,7 +5,7 @@ This tool protects your Python code from being stolen or copied. It's a simple t
 
 On kali linux :
 
-Step 1 : git clone https://github.com/ak404z/Phone-Location.git
+Step 1 : git clone https://github.com/ak404z/Code-Protection.git
 
 Step 2 : Download libraries to run the tool
 
